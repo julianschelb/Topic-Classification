@@ -6,7 +6,7 @@ We explore the application of large language models for topic classification wit
 
 **Citation:**
 
-```json
+```
 @inproceedings{schelb-etal-2024-assessing,
     title = "Assessing In-context Learning and Fine-tuning for Topic Classification of {G}erman Web Data",
     author = "Schelb, Julian  and
