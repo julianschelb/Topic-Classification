@@ -12,8 +12,6 @@ We explore the application of large language models for topic classification wit
     author = "Schelb, Julian  and
       Spitz, Andreas  and
       Ulloa, Roberto",
-    editor = "Fu, Xiyan  and
-      Fleisig, Eve",
     booktitle = "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 4: Student Research Workshop)",
     month = aug,
     year = "2024",
